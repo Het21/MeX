@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MeX</string>
+
+    <!--Spinner array-->
+    <string-array name="bcat_array">
+        <item>Transportation</item>
+        <item>Food</item>
+        <item>Rent</item>
+    </string-array>
+
+    <string name="drawer_header_text">Mex</string>
+
+    <!--Employee homepage-->
+    <string name="claim_now">Claim Now</string>
+    <string name="rpass">Reset Password</string>
+    <string name="approval_status">Approval Status</string>
+    <string name="logout">Logout</string>
+
+    <!--Manager homepage-->
+    <string name="approve_now">Approve Now</string>
+
+    <string name="action_settings">Action_Settings</string>
+</resources>

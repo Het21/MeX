@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id = "@+id/claim_now"
+            android:checked="true"
+            android:title="@string/claim_now" />
+
+        <item
+            android:id = "@+id/rpass"
+            android:title="@string/rpass"/>
+
+        <item
+            android:id = "@+id/approval_status"
+            android:title="@string/approval_status" />
+
+        <item
+            android:id = "@+id/logout"
+            android:title="@string/logout" />
+    </group>
+
+</menu>
