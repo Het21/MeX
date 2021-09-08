@@ -3,6 +3,6 @@ MeX (Mobile Expense Claim) is an android application that will allow employees t
 
 Tools and Technologies: Java, Python, Flask, Android Studio, MongoDB, IBM Cloud (Hosted on IBM Cloud)
 
-# Prerequisites to run the project
+## Prerequisites to run the project
 1. Remove the Server folder from the project and then create APK by importing it in Android Studio.
 2. Host the server.py file from the Server folder and update the Rest API links accordingly in the project.
